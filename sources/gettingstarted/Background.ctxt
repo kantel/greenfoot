@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\n\ Write\ a\ description\ of\ class\ StartWorld\ here.\n\ \n\ @author\ (J\u00F6rg\ Kantel)\ \n\ @version\ 0.1\n
+comment1.params=
+comment1.target=Background()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=position
+comment3.target=void\ paint(int)
+numComments=4
