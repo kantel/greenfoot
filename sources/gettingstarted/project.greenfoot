@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.Background.image=brick.jpg
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=722
+editor.fx.0.width=800
+editor.fx.0.x=240
+editor.fx.0.y=25
 height=725
 package.numDependencies=0
 package.numTargets=1
